@@ -1,5 +1,5 @@
 # College_Admit_Predictor
-This repository consists of College_Admit_Predictor web app.
+This repository consists of College_Admit_Predictor web app which I created using ML.
 
 This is a Machine Learning project I've created using Flask framework. The purpose of this web app is to calculate your chances of getting admitted into a college.
 
