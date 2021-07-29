@@ -5,3 +5,10 @@ This is a Machine Learning project I've created using Flask framework. The purpo
 
 I have used previous years data to train my ML Model for predicting future predictions based on the pattern.
 The algorithm used is Linear Regression, as the data was linear in nature it was the best option to go with. This can be used for both an API call and also as for direct website interacton.   
+
+## Preview
+
+
+https://user-images.githubusercontent.com/56497318/127534657-e37ec2db-65cf-4f1b-a353-3e12131027b5.mp4
+
+
